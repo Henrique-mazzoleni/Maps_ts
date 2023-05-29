@@ -1,6 +1,0 @@
-5
-111/home/henriquemazzoleni/Henrique/Programierung/courses/Typescript Developer Guide/03_Part_II/01_Maps/index.html1685198545666622666 0
-104/home/henriquemazzoleni/Henrique/Programierung/courses/Typescript Developer Guide/03_Part_II/01_Maps/src1685198568350632991 1
-113/home/henriquemazzoleni/Henrique/Programierung/courses/Typescript Developer Guide/03_Part_II/01_Maps/src/index.ts1685198579978638652 0
-118/home/henriquemazzoleni/Henrique/Programierung/courses/Typescript Developer Guide/03_Part_II/01_Maps/package-lock.json1685199166559148680 0
-100/home/henriquemazzoleni/Henrique/Programierung/courses/Typescript Developer Guide/03_Part_II/01_Maps1685199166559148680 1
